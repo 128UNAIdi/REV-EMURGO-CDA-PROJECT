@@ -1,0 +1,1 @@
+Teams: [[("RBTES",999)],[("TESRB",777)]] ; Respective relative cumulative strength :[999,777] ; Total number of teams :2 ; Timestamp :2022-04-19-04:52:31 UTC
